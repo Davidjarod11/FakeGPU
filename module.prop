@@ -1,0 +1,6 @@
+id=Fake-GPU
+name=Fake GPU for Snapdragon 730-730G
+version=v1.1
+versionCode=11
+author=Jarodmv11 @xda-developers
+description=Unlock Max Graphics with the Adreno 650 when your games use GPU detection, if it doesn't work with your game, use with Fake Device.
